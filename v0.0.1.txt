@@ -1,6 +1,5 @@
-adds json items necessary for packs using the same entity files to be compatibile with each other.
-the packs will still work independently. but both packs need to be active for both to work.
-packs can be active in any order.
+Adds json items necessary for packs using the same entity files to be compatible with each other.
+The packs will still work independently. Both packs need to be active for both to work at the same time. Packs can be active in any order.
 
 Hot to use:
 1. run program
@@ -12,4 +11,3 @@ Hot to use:
 
 v0.0.1
 -initial version
-
