@@ -1,7 +1,7 @@
 Adds json items necessary for packs using the same entity files to be compatible with each other.
 The packs will still work independently. Both packs need to be active for both to work at the same time. Packs can be active in any order.
 
-Hot to use:
+How to use:
 1. run program
 2. a ui will show. select the pack_a button then follow the prompts for directions
 3. select the pack_b button then follow the prompts for directions
